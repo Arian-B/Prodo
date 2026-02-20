@@ -25,7 +25,7 @@ transformers==4.37.2
 opencv-python==4.9.0.80
 pillow==10.2.0
 # NLP
-nltk==3.8.1
+nltk==3.9.2
 spacy==3.7.2
 # Graph Processing
 networkx==3.2.1
